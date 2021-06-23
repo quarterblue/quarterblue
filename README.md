@@ -2,7 +2,7 @@
 
 i'm a computer science undergraduate at Simon Fraser University.
  
- - [keybase.io/tkmin](https://keybase.io/tkmin) contact me here. i love this app.
+ - [keybase.io/tkmin](https://keybase.io/tkmin) you can contact me here.
 
 ### 💬 recent news
 
@@ -15,12 +15,12 @@ i'm a computer science undergraduate at Simon Fraser University.
  - [bloomy](https://github.com/quarterblue/bloomy) minimalistic bloomberg terminal clone in rust; fetch equity data and run some analysis
  - [parsec](https://github.com/quarterblue/parsec) proof of work based educational blockchain cryptocurrency with simulation
 
-### 🤔 open source projects
+### 👨‍🚀 open source projects
 
- - [Gitlab Analyzer](https://github.com/gitlab-analyzer/gitlabanalyzer) this is an academic project i built with bunch of awesome people at SFU. idea was originated by Dr. Brian Fraser. it analyzes gitlab repositories for individual contribution. a useful tool for marking... or kpi
+ - [Gitlab Analyzer](https://github.com/gitlab-analyzer/gitlabanalyzer) this is an academic project i built with bunch of awesome people at SFU. it analyzes gitlab repositories for individual contribution. a useful tool for marking or kpi. idea was originated by Dr. Brian Fraser. 
 
 ### 👯 looking to collaborate on...
- - anything distributed... on Go or Rust 🛰️
+ - anything distributed, on Go or Rust 🛰️
 
 <!--
 **quarterblue/quarterblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
