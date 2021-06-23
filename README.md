@@ -10,14 +10,14 @@ i'm a computer science undergraduate at Simon Fraser University.
 
 ### 🔭 personal projects i am working on
 
- - [KadeMS](https://github.com/quarterblue/kadems) end-to-end encrypted p2p messenger app over kademlia dht protocol
+ - [KadeMS](https://github.com/quarterblue/kadems) end-to-end encrypted p2p messenger app over kademlia dht protocol; initial phase...
  - [Kademlia DHT](https://github.com/quarterblue/kademlia-dht) rust implementation of the kademlia dht protocol
- - [bloomy](https://github.com/quarterblue/bloomy) minimalistic bloomberg terminal clone in rust
+ - [bloomy](https://github.com/quarterblue/bloomy) minimalistic bloomberg terminal clone in rust; fetch equity data and run some analysis
  - [parsec](https://github.com/quarterblue/parsec) proof of work based educational blockchain cryptocurrency with simulation
 
 ### 🤔 open source projects
 
- - [Gitlab Analyzer](https://github.com/gitlab-analyzer/gitlabanalyzer) this is an academic project i built with bunch of awesome people at SFU. idea was originated by Dr. Brian Fraser
+ - [Gitlab Analyzer](https://github.com/gitlab-analyzer/gitlabanalyzer) this is an academic project i built with bunch of awesome people at SFU. idea was originated by Dr. Brian Fraser. it analyzes gitlab repositories for individual contribution. a useful tool for marking... or kpi
 
 ### 👯 looking to collaborate on...
  - anything distributed... on Go or Rust 🛰️
