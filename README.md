@@ -1,6 +1,6 @@
 ### hi there 👋, i'm thomas
 
-i'm a software engineer with interests in distributed systems, blockchain, and cloud computing. i'm currently finishing my computer science undergraduate degree at Simon Fraser University (expected grad May 2022). my goto languages are Go, JavaScript, and Rust. i'm always looking for new open-source computing ideas (to collaborate)!
+i'm a software engineer with interests in distributed systems, blockchain, and cloud computing. i'm currently finishing my computer science undergraduate degree at Simon Fraser University (expected grad May 2022). my preferred languages are Go, JavaScript, and Rust. i'm always looking for new open-source computing ideas (to collaborate)!
  
  - [keybase.io/tkmin](https://keybase.io/tkmin) you can contact me here.
 
