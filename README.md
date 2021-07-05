@@ -1,4 +1,4 @@
-### hi there 👋, i'm thomas
+### hi there 👋
 
 i'm a software engineer with interests in distributed systems, blockchain, and cloud computing. my preferred languages are Go, JavaScript, and Rust. i'm always looking for new open-source computing ideas to collaborate.
  
