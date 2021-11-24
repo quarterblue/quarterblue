@@ -6,8 +6,9 @@ i'm interested in distributed systems, machine learning infrastructure, and real
 
 ### 🔭 personal projects i am working on
 
+ - [Pulse](https://github.com/quarterblue/pulse) hybrid failure detector for dist systems built on heartbeats & gossip protocol
+ - [balancer](https://github.com/quarterblue/balancer) fault-tolerant implementation of Chord dht in Go
  - [Kademlia DHT](https://github.com/quarterblue/kademlia-dht) rust implementation of the kademlia dht protocol
- - [bloomy](https://github.com/quarterblue/bloomy) minimalistic bloomberg terminal clone in rust; fetch equity data and run some analysis
 
 ### 👨‍🚀 open source projects
 
