@@ -2,10 +2,13 @@
 
 i'm interested in distributed systems, machine learning infrastructure, and real-time data systems. my preferred languages are Go, Python and JS. i'm actively looking for open source projects to contribute to!
  
- - [keybase.io/tkmin](https://keybase.io/tkmin) you can contact me here.
+ you can contact me here:
+ - [keybase.io/tkmin](https://keybase.io/tkmin)
+ - [quarterslate@gmail.com](quarterslate@gmail.com)
 
 ### 🔭 personal projects i am working on
 
+ - [beehive](https://github.com/quarterblue/beehive) fault-tolerant cron based distributed job scheduler for docker containers
  - [Pulse](https://github.com/quarterblue/pulse) hybrid failure detector for dist systems built on heartbeats & gossip protocol
  - [balancer](https://github.com/quarterblue/balancer) fault-tolerant implementation of Chord dht in Go
  - [Kademlia DHT](https://github.com/quarterblue/kademlia-dht) rust implementation of the kademlia dht protocol
