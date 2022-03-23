@@ -1,9 +1,8 @@
 ### hello there, i'm Thomas 👋
 
-i'm interested in distributed systems, machine learning infrastructure, and real-time data systems. my preferred languages are Go, Python and JS (also learning rust!). i'm actively looking for open source Go projects to contribute to!
+i'm interested in building highly available distributed back-end systems. i'm particularly interested distributed consensus, distributed stream processing, cloud computing, and machine learning infrastructure. my preferred languages are Go, Python and JS.
  
  you can contact me here:
- - [keybase.io/tkmin](https://keybase.io/tkmin)
  - [quarterslate@gmail.com](quarterslate@gmail.com)
 
 ### 🔭 personal projects i am working on
